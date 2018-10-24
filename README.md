@@ -2,7 +2,7 @@ FS
 ===
 (forked from goanywhere/fs)
 
-[![Build Status](https://travis-ci.org/goanywhere/fs.svg?branch=master)](https://travis-ci.org/goanywhere/fs) [![GoDoc](https://godoc.org/github.com/madara-io/fs?status.svg)](http://godoc.org/github.com/madara-io/fs)
+[![GoDoc](https://godoc.org/github.com/madara-io/fs?status.svg)](http://godoc.org/github.com/madara-io/fs)
 
 FS is a file system toolkit for the [Go](http://golang.org) programming language.
 
